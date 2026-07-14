@@ -1,4 +1,4 @@
-# MCP Tiingo Server
+# Stock Trade MCP Server
 
 A Model Context Protocol (MCP) server that exposes various [Tiingo API](https://www.tiingo.com/documentation/general/overview) endpoints as tools. This server allows programmatic access to financial data including stock prices, news, forex, fundamentals, and corporate actions via the MCP protocol.
 
